@@ -2,6 +2,15 @@
 
 /////
 
+2026-04-12
+1h 11m tracked
+
+I started working on the Redesign. I was getting close to finishing the design, but didn't finish because I didn't have time.
+
+<img width="461" height="517" alt="image" src="https://github.com/user-attachments/assets/2ba59a19-0c5f-4e95-aae0-5cb047c4ce2d" />
+
+/////
+
 2026-04-11
 46min tracked
 
